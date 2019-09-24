@@ -1,0 +1,42 @@
+body {
+    background: bisque;
+}
+
+a {
+    color: brown;
+    font-size: 22px;
+    font-style: italic;
+}
+
+h1 {
+    color: black;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.div_style1
+{
+    color: rgb(70, 32, 8);
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+
+.div_style2{
+    color: #484343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+}
+
+ul.style1 {
+    color: darksalmon;
+    text-align: left;
+    font-size: 20px;
+    list-style-image: url("krest.jpg");
+}
+
+input {
+    
+}
